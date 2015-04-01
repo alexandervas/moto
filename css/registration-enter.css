@@ -1,0 +1,60 @@
+.main-registration-enter input[type=text] 
+{
+  border-radius:15px;
+  box-shadow:3px 4px 6px #777777;
+  font-size:17px;
+  height:24px;
+  padding-left:18px;
+  
+  }
+/*
+.main-registration-enter input[type=password]
+{
+  border-radius:15px;
+  box-shadow:3px 4px 6px #777777;
+  font-size:17px;
+  height:24px;
+  padding-left:18px;
+ 
+
+}
+*/
+
+.main-registration-enter input[type=email]
+{
+  border-radius:15px;
+  box-shadow:3px 4px 6px #777777;
+  font-size:17px;
+  height:24px;
+  padding-left:18px;
+
+}
+
+
+
+
+
+.main-registration-enter .button
+{
+   background:linear-gradient(to right,#B60000 50%,#FF0000 70%);
+  border:3px solid #FFFFFF;
+  border-radius:20px 20px 20px 20px!important;
+  box-shadow:3px 4px 6px #777777;
+  color:#FFFFFF;
+  cursor:pointer;
+  display:inline-block;
+  font-size:16px;
+  font-weight:bold;
+  margin-left:40px;
+  padding:3px 10px;
+  position:relative;
+}
+
+.main-registration-enter .center-left
+{
+  margin-top:25px;
+}
+.main-registration-enter .center-right
+{
+  margin-right:20px;
+}

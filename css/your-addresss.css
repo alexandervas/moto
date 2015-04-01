@@ -1,0 +1,51 @@
+/*ВАШ АДРЕНС*/
+
+.main-your-address .definitely
+{
+	color: #D33131;
+}
+.main-your-address input[type=text] 
+{
+  border-radius:15px;
+  box-shadow:3px 4px 6px #777777;
+  font-size:17px;
+  height:24px;
+  padding-left:18px;
+  
+  }
+
+
+
+
+.main-your-address input[type=email]
+{
+  border-radius:15px;
+  box-shadow:3px 4px 6px #777777;
+  font-size:17px;
+  height:24px;
+  padding-left:18px;
+
+}
+
+
+
+
+
+.main-your-address .button
+{
+   background:linear-gradient(to right,#B60000 50%,#FF0000 70%);
+  border:3px solid #FFFFFF;
+  border-radius:20px 20px 20px 20px!important;
+  box-shadow:3px 4px 6px #777777;
+  color:#FFFFFF;
+  cursor:pointer;
+  display:inline-block;
+  font-size:16px;
+  font-weight:bold;
+  margin-left:40px;
+  padding:3px 10px;
+  position:relative;
+  margin-bottom: 20px;
+}
+
+/*ВАШ АДРЕНС*/

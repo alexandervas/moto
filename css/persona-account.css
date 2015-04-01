@@ -1,0 +1,23 @@
+/*ЛИЧНЫЙ КАБИНЕТ*/
+
+.main-persona-account h2
+
+{
+	font-weight: bold;
+}
+
+.myaccount-list li 
+{
+	font-size: 16px;
+  line-height: 36px;
+
+}
+
+.myaccount-list  a
+{
+ 
+ 
+  color: #000000;
+}
+
+/*ЛИЧНЫЙ КАБИНЕТ*/
